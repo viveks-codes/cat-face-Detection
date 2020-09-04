@@ -4,7 +4,7 @@ face_cascade = cv2.CascadeClassifier('cat_face.xml')
 
 img = cv2.imread("cat.jpg")
 
-gray=cv2. cvtColor(img, cv2.COLOR_BGR2GRAY)
+gray=cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
 
 faces= face_cascade.detectMultiScalel(gray, scaleFactor=1.01,minNeighbors=5)
 
