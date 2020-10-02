@@ -1,3 +1,4 @@
+# real time computer vision
 import cv2
 
 face_cascade = cv2.CascadeClassifier('cat_face.xml')
