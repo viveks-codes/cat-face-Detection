@@ -7,3 +7,22 @@ or use
 ```python
 easy_install opencv
 ```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
